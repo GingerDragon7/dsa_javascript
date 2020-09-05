@@ -81,6 +81,6 @@ console.log(myStack.peek());
 
 // SPACE        O(N)        O(N)
 // SEARCH       O(N)        O(N)
-// INSERT       O(1)        O(N)
+// INSERT       O(1)        O(1)
 // DELETE       O(1)        O(1)
 
